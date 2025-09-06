@@ -6,5 +6,6 @@ The task includes: the study of the Godunov method, the generalized Riemann prob
 
 # Инструменты:
 -с++
+
 -matplotlib
 
